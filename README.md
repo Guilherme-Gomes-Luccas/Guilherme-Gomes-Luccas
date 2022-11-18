@@ -4,9 +4,7 @@
 - 🤔 &nbsp; Sempre vendo algo sobre alguma linguagem ou desenvolvimento de jogos.
 - 🎓 &nbsp; Estudando **Analise e desenvolvimento de sistemas** no <a href="[link da sua faculdade](https://www.ifspcaraguatatuba.edu.br/)">IFSP - Caraguatatuba</a>.
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
-
-**Aplicações e Dados**
+<h3> :rocket: &nbsp;Linguagens usadas </h3>
 
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=mysql)
