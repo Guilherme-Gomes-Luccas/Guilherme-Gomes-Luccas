@@ -1,4 +1,4 @@
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3> &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Sempre vendo algo sobre alguma linguagem ou desenvolvimento de jogos.
 - 🎓 &nbsp; Estudando **Analise e desenvolvimento de sistemas** no <a href="[link da sua faculdade](https://www.ifspcaraguatatuba.edu.br/)">IFSP - Caraguatatuba</a>.
@@ -23,5 +23,5 @@
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeGomeslr&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeGomeslr&show_icons=true&theme=dracula&line_height=27" alt="**Guilherme** github stats"/>
 </a>
