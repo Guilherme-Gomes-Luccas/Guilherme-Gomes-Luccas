@@ -1,6 +1,6 @@
 <h3> &nbsp;Sobre mim </h3>
 
-- 📅 Tenho 20 anos.
+- 📅 Tenho 21 anos.
 - 🤔 &nbsp; Sempre vendo algo sobre alguma linguagem ou desenvolvimento de jogos.
 - 🎓 &nbsp; Estudando **Analise e desenvolvimento de sistemas** no <a href="[link da sua faculdade](https://www.ifspcaraguatatuba.edu.br/)">IFSP - Caraguatatuba</a>.
 
