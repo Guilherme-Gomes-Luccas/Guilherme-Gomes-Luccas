@@ -2,7 +2,7 @@
 
 - 📅 Tenho 21 anos.
 - 🤔 &nbsp; Sempre vendo algo sobre alguma linguagem ou desenvolvimento de jogos.
-- 🎓 &nbsp; Estudando **Analise e desenvolvimento de sistemas** no <a href="[link da sua faculdade](https://www.ifspcaraguatatuba.edu.br/)">IFSP - Caraguatatuba</a>.
+- 🎓 &nbsp; Formado em **Analise e desenvolvimento de sistemas** no <a href="[link da sua faculdade](https://www.ifspcaraguatatuba.edu.br/)">IFSP - Caraguatatuba</a>.
 
 <h3> :rocket: &nbsp;Linguagens usadas </h3>
 
